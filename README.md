@@ -1,18 +1,10 @@
-Part A: Creating Home Page
+<h1>Part A: Creating Home Page</h1>
 Relevant files to work on: index.html, index.css, index.js, common.js, common.css.
 
 
 Once you have downloaded the zipped folder, you will see a file named "index.html" at the root level of that folder. You must open that file and inside it, you will see some HTML code written. This "index.html" file will be the file for your homepage.
 
- 
 
-You can feel free to modify this HTML code. However, the entire page should look exactly the same as given in the screenshot below:
-
- 
-
-
-
- 
 
 Following are some of the very important things to keep in mind:
 
