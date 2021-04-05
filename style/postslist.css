@@ -59,12 +59,12 @@ body{
    
 }
 
-.post-text{
-    overflow: hidden; 
-    white-space: normal; 
-
-    height: 4.8em;  
-    text-overflow: -o-ellipsis-lastline; 
+.post-text {
+    overflow: hidden;
+    white-space: normal;
+    height: 4.8em;
+    padding-right: 38px;
+    text-overflow: -o-ellipsis-lastline;
 }
 
 .trash-button{
